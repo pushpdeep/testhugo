@@ -8,9 +8,9 @@ pygmentsStyle = "native"
 
 
 [params]
-  name = "Adam Jensen"
-  about = "Security Chief &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
-  copyright = "Untitled"
+  name = "Pushpdeep Mishra"
+  about = "Project Manager &nbsp;&bull;&nbsp; Cyborg &nbsp;&bull;&nbsp; Never asked for this"
+  copyright = "2019-IIT Bombay"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
@@ -18,12 +18,12 @@ pygmentsStyle = "native"
 [[params.social]]
   medium = "Twitter"
   icon = "twitter"
-  link = "#"
+  link = "https://www.twitter.com/pushpdeep"
 
 [[params.social]]
   medium = "Facebook"
   icon = "facebook"
-  link = "#"
+  link = "https://www.facebook.com/pushpdeep.mishra"
 
 [[params.social]]
   medium = "Dribbble"
@@ -33,9 +33,9 @@ pygmentsStyle = "native"
 [[params.social]]
   medium = "Github"
   icon = "github"
-  link = "#"
+  link = "https://www.github.com/pushpdeep"
 
 [[params.social]]
   medium = "Email"
   icon = "envelope-o"
-  link = "#"
+  link = "pushpdeep@iitb.ac.in"
